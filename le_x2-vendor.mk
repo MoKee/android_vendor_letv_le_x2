@@ -234,6 +234,7 @@ PRODUCT_COPY_FILES +=  \
     vendor/letv/le_x2/proprietary/etc/firmware/cppf.b06:system/etc/firmware/cppf.b06 \
     vendor/letv/le_x2/proprietary/etc/firmware/a530v2_seq.fw2:system/etc/firmware/a530v2_seq.fw2 \
     vendor/letv/le_x2/proprietary/etc/batt_info_show_conf.xml:system/etc/batt_info_show_conf.xml \
+    vendor/letv/le_x2/proprietary/lib64/hw/audio.primary.msm8996.so:system/lib64/hw/audio.primary.msm8996.so \
     vendor/letv/le_x2/proprietary/lib64/hw/sensors.msm8996.so:system/lib64/hw/sensors.msm8996.so \
     vendor/letv/le_x2/proprietary/lib64/libsensorservice.so:system/lib64/libsensorservice.so \
     vendor/letv/le_x2/proprietary/lib64/libloc_ds_api.so:system/lib64/libloc_ds_api.so \
@@ -1401,6 +1402,7 @@ PRODUCT_COPY_FILES +=  \
     vendor/letv/le_x2/proprietary/lib/libarcimgutilsbase.so:system/lib/libarcimgutilsbase.so \
     vendor/letv/le_x2/proprietary/lib/libloc_ds_api.so:system/lib/libloc_ds_api.so \
     vendor/letv/le_x2/proprietary/lib/libOmxVpp.so:system/lib/libOmxVpp.so \
+    vendor/letv/le_x2/proprietary/lib/hw/audio.primary.msm8996.so:system/lib/hw/audio.primary.msm8996.so \
     vendor/letv/le_x2/proprietary/lib/hw/camera.msm8996.so:system/lib/hw/camera.msm8996.so \
     vendor/letv/le_x2/proprietary/lib/hw/sensors.msm8996.so:system/lib/hw/sensors.msm8996.so \
     vendor/letv/le_x2/proprietary/lib/libcameraservice.so:system/lib/libcameraservice.so \
